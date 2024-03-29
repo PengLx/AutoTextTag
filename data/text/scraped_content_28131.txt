@@ -1,0 +1,4 @@
+
+Title: Some title Content: To be honest, JS is an awkward language. It has a lot of weird parts that might even end up making professionals scratch their heads. In this article, we will be trying to understand why and how these WTF moments occur.
+Title: Another one Content: This tweet became quite a trend a few months back, it had me puzzled too. And I had to do some digging to find out what was happening.
+Title: Banana Content: To be honest, JS is an awkward language. It has a lot of weird parts that might even end up making professionals scratch their heads. In this article, we will be trying to understand why and how these WTF moments occur.

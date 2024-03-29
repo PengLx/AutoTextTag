@@ -1,0 +1,2 @@
+
+Title: How do I use Stadia with Stadium 1.2? Content: Set your Primary URL field toSet your Custom User Agent String toSet your Override Custom User Agent String toDisable “Require Full Screen Video” if you want to see Stadia’s menu overlays. I kept this as an option because forcing the video full screen may be better for smaller devices (hello there, iPhone 12 mini users).

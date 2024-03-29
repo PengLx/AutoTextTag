@@ -1,0 +1,7 @@
+Books
+Title: African countries  Content: Egypt is poor precisely because it has been ruled by a narrow elite that have organized society for their own benefit at the expense of the vast mass of people.
+Title: Society Content: What rules society ends up with is determined by politics: who has power and how this power can be exercised.
+Title: Disease Content: Disease is largely a consequence of poverty and of governments being unable or unwilling to undertake the public health measures necessary to eradicate them.
+Title: Institutional Trust Content: ...The extent to which people trust each other or are able to cooperate, are important but they are mostly an outcome of institutions, not an independent cause.
+Title: Policies  Content: The main obstacle to the adoption of policies that would reduce market failures and encourage economic growth is not the ignorance of politicians but the incentives and constraints they face from the political and economic institutions in their societies.
+Title: Poor Countries  Content: Poor countries are poor because those who have power make choices that create poverty. They get it wrong not by mistake or ignorance but on purpose.

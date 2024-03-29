@@ -1,0 +1,2 @@
+Problem Solving,Productivity,Leadership & Management
+Title: Decision Matrix Analysis Content: A decision matrix is a table that helps you to visualize the best option between your different alternatives.It works by getting you to list your options as rows on a table, and the factors you need consider as columns. You then score each option/factor combination, weight this score by the relative importance of the factor, and add these scores up to give an overall score for each option.

@@ -1,0 +1,19 @@
+Meditation,Mindfulness,Health
+Title: Guided vs. unguided meditation Content: In guided meditation, a teacher guides you through the basic steps of the practice. This is useful for beginners to get the most out of the experience.In unguided meditation, youmeditate without someone else explaining the process.
+Title: Calming vs. insight meditation Content: The intention of calming meditation is to cultivate a quieter, more peaceful state of mind and improved concentration.Insight meditation often sets an intention to transform the mind by developing qualities such as wisdom and compassion.Many meditation techniques combine elements of both.
+Title: Focused attention Content: It uses the object of your breath to focus attention and maintain awareness. If your mind starts to wander, return your attention to your breath.
+Title: Body scan Content: This technique is designed to allow your mind and body to sync by performing a mental scan of your body from the top of your head to the end of your toes.
+Title: Noting Content: This technique involves specifically observing what’s distracting the mind. Then note the thought or feeling and let it go.
+Title: Visualization Content: Picture something or someone in your mind instead of focusing on your breath.
+Title: Loving kindness Content: It means focusing on the image of different people and directing positive energy and goodwill first to yourself and then to others.
+Title: Skillful compassion Content: It involves focusing on a person you know or love and paying attention to the sensations arising from the heart.
+Title: Resting awareness Content: This technique involves letting the mind truly rest by letting the thoughts drift away.
+Title: Reflection Content: This technique invites you to ask yourself a question, then to be aware of the feelings your question evokes.
+Title: Zen meditation Content: This ancient Buddhist tradition involves sitting upright and following the breath as it moves in and out of the belly, and letting the mind “just be.”
+Title: Mantra meditation Content: This technique teaches you to focus on a mantra. The idea is that the subtle vibrationsassociated with the repeated mantra can encourage positive change.
+Title: Transcendental meditation Content: It is taught by trained instructors and involves sitting comfortably with one’s eyes closed for 20 minutes, twice per day, and engaging in the effortless practice as instructed.
+Title: Yoga meditation Content: It is aimed at strengthening the nervous system, so we are better able to cope with everyday stress and problems.
+Title: Vipassana meditation Content: Use your concentration to examine certain aspects of your existence with the intention of eventual transformation.
+Title: Chakra meditation Content: It is aimed at keeping the body’s core chakras or centers of energy, back into balance.
+Title: Qigong meditation Content: This Chinese practice involves harnessing energy in the body by allowing energy pathways to be open and fluid.
+Title: Sound bath meditation Content: This form uses bowls, gongs, and other instruments. Creatingsound vibrations helps to focus the mind.

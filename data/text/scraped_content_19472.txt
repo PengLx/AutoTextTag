@@ -1,0 +1,3 @@
+Health,Problem Solving,Teamwork,Leadership & Management,softwareengineering
+Title: Thinking in Systems Content: It means to be able to break down a big system into its sections and putting it back together. The target is to identify the strong and weak links: how the sections work, don’t work, or could potentially work and applying this knowledge to engineer useful outcomes.There is no engineering method, so modular systems thinking varies with contexts.
+Title: Fundamental Properties of the Engineering Mind-Set Content: The ability to see a structure where there’s nothing apparent.Adeptness at designing under constraints.The capacity to hold alternative ideas in your head and make considered judgments.

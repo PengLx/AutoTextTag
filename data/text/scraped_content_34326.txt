@@ -1,0 +1,2 @@
+Health,Problem Solving,Creativity,Artificial Intelligence,Science & Nature
+Title: Algorithm variants Content: There are ML algorithms (Boltzmann Machine, Hidden Markov, Convolution) based on networks with fixed links while the weights are learned. How useful would be to use these "wild" networks instead.

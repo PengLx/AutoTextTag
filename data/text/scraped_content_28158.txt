@@ -1,0 +1,5 @@
+Cryptocurrency,Computer Science,Podcasts,Videos,Artificial Intelligence
+Title:  Content: Launch quickly (even if is bad)Get initial customersTalk to users & get feedbackIterate﻿
+Title: Lean MVP Content: Build very fastVery limited functionalityAppeal to a small set of usersIt’s the base to iterate from.
+Title: How to build quickly Content: Time box your specWrite down your specCut your specDon’t fall in love with your mvp
+Title: Users conversations Content: Don’t ask users for features.Ask for problems.

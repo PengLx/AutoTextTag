@@ -1,0 +1,16 @@
+Health,Food
+Title: The more water you drink, the better Content: Water is necessary to life and a healthy beverage, but not in excessive quantities.Your body can give you an indication of how much water it needs. It is better to drink to your thirst.
+Title: Getting a base tan can prevent sunburns Content: Tanning can increase your risk of cancer. Sun damage is the primary cause of wrinkles.
+Title: “Detoxes” work Content: Your body can detoxify itself, provided you have a healthy liver and kidneys.Detox diets may even harm you. Juices high in sugar can increase your blood sugar level. A juice fast may also lead to malnourishment.
+Title: STD through sex Content: You can get STDs through any type of sexual contact,even just skin-to-skin contact if one partner has open sores.
+Title: Gluten is bad for you Content: Eliminating gluten from your diet does not offer health benefits. Whole grains are a great source of fiber and vitamins.Only a handful of people should consider avoiding gluten. These are people with Celiac disease and the small number of people who have gluten intolerance.
+Title: You can exercise your way to a six-pack Content: Everyone has abs, they're just hiding under layers of fat.Great abs are the result of diet and exercise.
+Title: You can eat whatever you want Content: We should think of food in terms of quality, not just quantity.Food high in sugar is associated with cancer and should be eaten in limited amounts.
+Title: Breast cancer is the #1 killer Content: Breast cancer is not the leading cause of death in women.Heart disease is still the primary cause of death. Lung cancer is killing nearly twice as many women as breast cancer.
+Title: A hypoallergenic dog Content: A hypoallergenic dog is a myth. Dog allergies are caused by microscopic proteins derived from the pet's skin dander and saliva.
+Title: Taboo topics with your doctor Content: Failing to bring up gross symptoms with your doctor can make it harder to get the right diagnosis and treatment.Doctors have to continually remind their patients to talk about these icky topics.
+Title: Medical X-rays and cancer Content: You have a greater risk that a doctor might miss something important because you declined an X-ray than the small risk posed by the machines.An hour in the sun exposes you to more radiation than a full set of dental X-rays.
+Title: Sunscreen interferes with vitamin D Content: Your body makes vitamin D when exposed to the sun. While sunscreen blocks the sun's rays, new studies revealed wearing sunscreen does not cause vitamin D deficiency.Vitamin D is gained through food, supplements and small doses of sunshine.
+Title: You can diagnose yourself Content: In spite of the validity of reputable sites, Dr. Google is not the best doctor. A lot of information is irrelevant, incomplete of plain false.
+Title: The best time to make a baby Content: Many people believe a woman has the best chance of conceiving the day of ovulating or shortly thereafter.The best time to conceive is just before ovulation.
+Title: Cardio to lose weight Content: Sixty to ninety minutes of daily cardiovascular exercise is not an effective method to lose weight.To lose weight, you need to build more muscle, because the more muscle you have, the higher your basal metabolic rate.Strength training is an essential part of your exercise routine.

@@ -1,0 +1,4 @@
+Health,Food,Marketing & Sales
+Title: Quality and price Content: A higher price doesn’t really mean higher quality.The higher price does not just reflect the added cost of organic agriculture techniques. Also, people will pay more for the label, often without knowing what it means, because “Organic” has become a synonym for “luxury.”
+Title: Organic food and the environment Content: Organic products are not necessarily better for the environment.Many organic farmers, especially the large ones, don’t skip pesticides and fertilizers, they just use natural options, which are hardly risk-free.
+Title: Organic vs. conventional foods Content: Any additional nutritional benefits from organic foods, compared with conventional, are very small.Ultimately, if you want more nutrients, eat more vegetables, organic or not.

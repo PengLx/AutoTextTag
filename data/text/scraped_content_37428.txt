@@ -1,0 +1,2 @@
+Strategy,Teamwork,Leadership & Management,Career,Startups
+Title: Agile teams work differently Content: .. from chain-of-command bureaucracies: They are largely self-governing: Senior leaders tell team members where to innovate but not how. The teams work closely with customers, both external and internal. This puts responsibility for innovation in the hands of those who are closest to customers.  

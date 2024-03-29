@@ -1,0 +1,3 @@
+Health,Food
+Title: Fruit juice is not that healthy Content: Fruit juice, even if it is freshly pressed, 100 percent juice, is little more than sugar water.Whole fruit is healthy, and you might think that the juice coming from it must be healthy, too. But when you make juice, you leave some of the most wholesome parts of the fruit behind: skin, seeds, membranes.
+Title: Feeling full Content: You might feel full immediately after drinking a glass of juice or a fresh smoothie, but that sensation goes away rapidly, as the liquid quickly empties out of your stomach.When you drink your calories instead of eating them, your brain doesn’t get the same “I’m full” signal that it does from solid food, even though you end up consuming more calories in the process.

@@ -1,0 +1,4 @@
+Computer Science
+Title: Idea 1 Content: Code comments are a human-readable explanation of what a computer program does. They are added to make the code easier for humans to understand.
+Title: Idea 2 Content: Well, in this article, you will see how code commenting can be funny, too. Here is a list of comments that were actually written in the code.
+Title:  Content: 

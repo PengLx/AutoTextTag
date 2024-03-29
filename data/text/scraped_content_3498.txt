@@ -1,0 +1,4 @@
+Health,Mindfulness,Meditation,Personal Development,Mental Health
+Title: Use of mindfulness Content: Mindfulness can be used as a preventative treatment for depression.The idea is that you actively pay attention to the moment, without judging. It helps the mind to revisit thoughts about the past and to put the future into perspective.
+Title: Mindfulness as an effective treatment Content: There is clinical evidence for mindfulness-based cognitive therapy as a way to prevent depression and anxiety.Mindfulness may be good for other psychiatric conditions including bipolar disorder.There is also growing evidence that mindfulness is effective for chronic long-term health conditions.
+Title: Mindfulness can be overstated Content: Mindfulness is not a cure all. With all the hype around mindfulness it can sometimes be difficult to tell whether the information is quality-controlled and reliable. We need to be careful not to overstate it's usefulness.

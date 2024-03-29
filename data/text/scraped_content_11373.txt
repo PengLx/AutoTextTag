@@ -1,0 +1,4 @@
+Science & Nature
+Title: The entropy law Content: The second law of thermodynamics, the so-called 'the entropy law', it is said to be one of the most important laws in nature. This law states that entropy, which is a measure of disorder in a closed system, almost always increases in time.
+Title: Estimating the disorder Content: The entropy law, or the second law of thermodynamics, has as object of study the disorder within a system. The bigger the system and the more the molecules and atoms within, the more the entropy contained.
+Title: The confusing nature of entropy Content: In big lines, entropy can be defined as a measure of disorder of a system. However, nobody can give more details about its nature, as there have been so many definitions of the term throughout the years. All these definitions vary according to the discipline the term is used for.

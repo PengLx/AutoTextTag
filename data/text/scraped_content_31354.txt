@@ -1,0 +1,3 @@
+Strategy
+Title: Simple Strategy Definition  Content: Every strategy is really just a theory: “We bet if we do x, then y will happen.” 
+Title: Strategy Smells  Content: Any complex job, coding or strategy, are part science and part art. They requires deep domain knowledge and superior judgment.When we say strategy smells we mean there here are certain patterns that recur across many businesses. These smells are based on experience:Paying users to make content in an app smells badPaying more to acquire users that spend very little smells badEtc ...

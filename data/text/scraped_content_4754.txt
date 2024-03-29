@@ -1,0 +1,3 @@
+Health,Food,Science & Nature
+Title: The need to vitaminize  Content: Nowadays, vitamins are often perceived as being essential to humans' daily diet. Therefore, there is a variety of regimens based on them and provided by numerous companies that promise to ensure an improved functioning of our organism. 
+Title: The danger of taking too many vitamins Content: As applied to any other subject, when it comes to vitamins people should be careful too. Taking too much of a certain vitamin might lead to disequilibrium in your immune system and not only.So, better safe than sorry, make sure to check with a doctor before starting any diet based on vitamins.

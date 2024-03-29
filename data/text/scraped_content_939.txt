@@ -1,0 +1,3 @@
+Problem Solving,Leadership & Management,Technology & The Future
+Title: Applying First Principles Thinking Content: 1. Deconstruct and look at the components of what you're working on and question all the assumptions you have about them. Think of different ways the same function can be accomplished.2. Deconstruct it and mash it up with products or concepts from different contexts to generate new ideas.
+Title: First Principles Thinking Content: Also known as Deconstruction, it’s a way of thinking supported by Elon Musk and many scientists. It consists of breaking what you know into its components until its fundamental parts can be understood.We have a lot of assumptions. Breaking something apart yields more information allowing you to challenge assumptions.

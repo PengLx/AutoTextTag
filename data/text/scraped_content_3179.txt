@@ -1,0 +1,10 @@
+Health,Mental Health,Personal Development,Mindfulness
+Title: Gentle morning exercise Content: Exercising may help alleviate anxiety when faced with a sudden, unpredictable shock.
+Title: Spend time with a close friend Content: According to research, when we connect with friends, we can handle stress better.
+Title: Start the day with time outside Content: According to a study, spending time in nature, or even just looking at scenes of nature, mayhelp you recover faster from subsequent stressful experiences.
+Title: Remember to breathe Content: Slow, deep breathing is calming.Researchers noticed that 15 min of deep breathingreduces the reactivity of the nerve network that is active during the stress response.
+Title: Take control Content: During a stressful situation,remind yourself what you can control in your immediate environment.
+Title: Pour a brew Content: Researchers discovered that tea drinkersrecover faster after stress.
+Title: Shift your focus Content: When you leave an emotionally stressful scene, your mind might still replay the scene repeatedly.Do an activity that requires your full attention. It will help you to relax faster.
+Title: Go for a walk Content: After a particularly stressful experience, go for a gentle walk. Keep yourself moving at every opportunity to calm you down.
+Title: Write it down Content: When you are calm, write down the event from a third person's perspective. Omit your emotions and sensations. This will help you to revisit the scene in a better light.

@@ -1,0 +1,4 @@
+Reading & Writing,Problem Solving,Business
+Title: Writing = business planning Content: Writing is NOT the antithesis of agile.Agility comes from planning. Without plans, activities are just brownian motion. And you can’t have plans, especially shared plans, without writing.
+Title: Powerpoint decks are designed to sell, not explain Content: Most business decks outlining a strategy are woefully inadequate for highlighting the rationale behind the proposal.Decks focus on the take-aways and tactics. The details are lost and people will make up their stories to fill the space between the bullet points.
+Title: Write to document the decision making Content: Writing forces you to share the details behind the goals, the history, the context, the trade-offs.This allows the employees to make consistent trade-offs. Micro-decisions that align to the plan.

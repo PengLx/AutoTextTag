@@ -1,0 +1,6 @@
+Health,Food
+Title: Eight glasses of water Content: We should indeed be drinking enough water every day for good overall health. What this amount is, differ from person to person.There is no scientific evidence that backs up drinking 8 glasses of water for overall health. The 8 glasses of water have been traced back to a single paragraph in a government report from 1945.
+Title: Catch a cold by being cold Content: You can't catch a cold from being cold. A virus is responsible for contracting a cold. We become infected with viruses when we are in close quarters with other people infected with a virus.
+Title: Cracking your joints can lead to arthritis Content: Cracking joints do not cause arthritis. Research done found people who crack their joints are at the same risk of getting arthritis than those who don't.
+Title: Deodorant can cause breast cancer Content: Nearly all of the studies that have tested the link between deodorant and breast cancer found no evidence to support the claim.
+Title: Eggs are bad for the heart Content: Research suggests there is no link between eating eggs and a cholesterol imbalance.Eggs are rich in nutrients and a good source of a nutritious food.

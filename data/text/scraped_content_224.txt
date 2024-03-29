@@ -1,0 +1,3 @@
+Health,Food,Marketing & Sales
+Title:  Content: Anallergy is caused by the immune system fighting substances in the environment that it should see as harmless, known as allergens. These innocent substances become targets, leading to allergic reactions.
+Title: The frequency of food allergy nowadays Content: The frequency of food allergy has increased over the past 30 years. It is thought that allergies and increased sensitivity to foods are probably environmental, and related to Western lifestyles.Factors may include pollution, dietary changes and less exposure to microbes, which change how our immune systems respond.

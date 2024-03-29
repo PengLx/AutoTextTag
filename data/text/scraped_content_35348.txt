@@ -1,0 +1,4 @@
+Books,Career,Creativity,Learning & Education,Science & Nature
+Title: Test 1 Content: I know plenty of highly intelligent people. Some of them can recite classic literature. Others will surprise you with their knowledge of current events. Many of them offer amazing advice. And yet, most of them still struggle to make a dent in the world.
+Title: Test 2 Content: Why is that? Why do they fail to get their careers and businesses off the ground?
+Title: Test 3 Content: We’ve grown accustomed to defining intelligence as a combination of high IQ and high EQ. These aremostlyinborncharacteristics — which is convenient for us, since we can blame our lack of success on bad luck.
